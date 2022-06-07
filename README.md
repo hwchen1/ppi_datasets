@@ -11,6 +11,7 @@
 
 + **golden standard reference protein complexes**: *golden\_standard.txt*
     + one protein complex with more than 2 the basic proteins (in one line)
+    + another golden standard reference protein complexes: Form_CYC20083.txt
 
 #### ppi data (for example: `COLLINS/`)
 + **protein nodes with go slim attribution**: *collins\_go\_information.txt*
